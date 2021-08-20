@@ -7,7 +7,11 @@ Learning Resources
 - A lot of these courses are multiple hours long, so it is recommended to watch them in multiple sittings of 30-45 minutes each.
 - Making Projects is more important than certifications.
 
-1) Complete Beginners with no prior experience in coding:
+<p align="center">
+  <img width="600" height="300"  src="images/intro.jpg">
+</p>
+
+<h3>Complete Beginners with no prior experience in coding:</h3>
 
 - Harvard CS50 (Intro to Computer Science)- <https://youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi>
 
@@ -16,15 +20,23 @@ Learning Resources
 <https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/index.htm>
 
 
-1) Mathematics for Computer Science:
+
+<p align="center">
+  <img width="600" height="300"  src="https://github.com/GCECT-TECHNOLOGY-CLUB/Learning-Resources/blob/main/images/giphy.gif">
+</p>
+
+<h3>Mathematics for Computer Science:</h3>
 
 - MIT 6.042( Mathematics for Computer Science):-
 
 <https://youtube.com/playlist?list=PLB7540DEDD482705B>
 
 
+<p align="center">
+  <img width="500" height="200"  src="https://github.com/GCECT-TECHNOLOGY-CLUB/Learning-Resources/blob/main/images/languages.png">
+</p>
 
-1) C++ , Java and Python for beginners:
+<h3>C++ , Java and Python for beginners:</h3>
 - C++:
 
 - FreeCodeCamp (recommended):
@@ -67,8 +79,11 @@ Learning Resources
 <https://youtu.be/_uQrJ0TkZlc>
 
 
+<p align="center">
+  <img width="600" height="300"  src="https://github.com/GCECT-TECHNOLOGY-CLUB/Learning-Resources/blob/main/images/CornyThickGordonsetter-size_restricted.gif">
+</p>
 
-1) Data Structures and Algorithms:-
+<h3>Data Structures and Algorithms:-</h3>
 
 - MIT 6.006 (Introduction to Algorithms) :-
 
@@ -95,8 +110,11 @@ Follow-<https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw>
 
 <https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p>
 
+<p align="center">
+  <img width="600" height="300"  src="https://github.com/GCECT-TECHNOLOGY-CLUB/Learning-Resources/blob/main/images/1_3T7J7csXY8u36acofw5N8g.jpeg">
+</p>
 
-1) Web development :-
+ <h3>Web development :-</h3>
 
 - Web Dev Simplified (Intro):
 
@@ -114,8 +132,11 @@ Follow-<https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw>
 
 <https://youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK>
 
-
-1) Android development:-
+<p align="center">
+  <img width="300" height="300"  src="https://github.com/GCECT-TECHNOLOGY-CLUB/Learning-Resources/blob/main/images/android.webp">
+</p>
+ 
+ <h3>Android development:-></h3>
 
 - CodeWithHarry (in Hindi):
 
@@ -151,9 +172,11 @@ Follow-<https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw>
 
 
 
+<p align="center">
+  <img width="600" height="300"  src="https://github.com/GCECT-TECHNOLOGY-CLUB/Learning-Resources/blob/main/images/neural-network.gif">
+</p>
 
-
-1) Data Science/ Machine Learning :-
+<h3>Data Science/ Machine Learning :-</h3>
 
 - CodeBasics ( in Python , with basics of python included):-
 
@@ -188,9 +211,11 @@ Note- Follow along written tutorials with hands-on implementation of code
 
 
 
+<p align="center">
+  <img width="400" height="200"  src="https://github.com/GCECT-TECHNOLOGY-CLUB/Learning-Resources/blob/main/images/youtube-subscribe.gif">
+</p>
 
-
-Some Popular Youtube Channels to follow :
+<h3>Some Popular Youtube Channels to follow :</h3>
 
 - Code with Harry (Web,Android,Languages)-<https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww>
 
