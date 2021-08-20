@@ -6,6 +6,7 @@ Learning Resources
 - All the resources are free, you just need to devote your time. 
 - A lot of these courses are multiple hours long, so it is recommended to watch them in multiple sittings of 30-45 minutes each.
 - Making Projects is more important than certifications.
+- Feel free to contact with others regrading any doubts or anything like that.
 
 <p align="center">
   <img width="600" height="300"  src="images/intro.jpg">
@@ -91,15 +92,9 @@ Learning Resources
 
 <https://youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb>
 
-- Apna College C++ DSA Playlist ( Recommended) :-
-
-<https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ>
-
 - Community Classroom DSA (in Java) (Recommended) :- 
 
-Coming soon (starts from 1st Aug 2021) 
-
-Follow-<https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw>
+Follow-<https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ>
 
 
 - CodeWithHarry DSA (in Hindi):-
@@ -109,6 +104,21 @@ Follow-<https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw>
 - Anuj bhaiya DSA ( in Java):
 
 <https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p>
+
+- Apna College C++ DSA Playlist:-
+
+<https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ>
+
+<h3>Competitive Programming (CP)</h3>
+
+Competitive Programming is the application of DSA and maths to solve problems.
+Learn Basic DSA like arrays,strings,searching,sorting then start CP.
+
+-Luv <https://youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ->
+
+-CodeVerse (maths) <https://youtube.com/playlist?list=PLN4aKSfpk8TQUiURV1k70At4Tj5oKb92i>
+
+
 
 <p align="center">
   <img width="600" height="300"  src="https://github.com/GCECT-TECHNOLOGY-CLUB/Learning-Resources/blob/main/images/1_3T7J7csXY8u36acofw5N8g.jpeg">
