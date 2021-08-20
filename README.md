@@ -228,6 +228,8 @@ Note- Follow along written tutorials with hands-on implementation of code
 <h3>Some Popular Youtube Channels to follow :</h3>
 
 - Code with Harry (Web,Android,Languages)-<https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww>
+- Take U Forward (DSA)- <https://www.youtube.com/c/takeUforward>
+- Kunal Khushwaha (DSA, Devops,Open-source,Web)- <https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw>
 
 - New Boston(Web,Dev-ops)- <https://www.youtube.com/user/thenewboston>
 
@@ -235,7 +237,7 @@ Note- Follow along written tutorials with hands-on implementation of code
 
 - Computerphile(Theoretical CS, Important topics)- <https://www.youtube.com/user/Computerphile>
 
-- Kunal Khushwaha (Devops,Open-source,Web)- <https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw>
+
 
 - Anuj Bhaiya(Android)- <https://www.youtube.com/channel/UC58_wzhvJta3hDSPvRLDAqg>
 
