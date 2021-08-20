@@ -229,6 +229,7 @@ Note- Follow along written tutorials with hands-on implementation of code
 
 - Anuj Bhaiya(Android)- <https://www.youtube.com/channel/UC58_wzhvJta3hDSPvRLDAqg>
 
+- Dapp University(Blockchain)- <https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ>
 
 - MIT Open Courseware (get MIT lectures for free)- <https://www.youtube.com/user/MIT>
 
@@ -239,6 +240,10 @@ Note- Follow along written tutorials with hands-on implementation of code
 - TraversyMedia(Web)- <https://www.youtube.com/c/TraversyMedia/featured>
 
 - Sentdex(Machine learning)- <https://www.youtube.com/c/sentdex>
+
+- Krish Naik(Machine learning)- <https://www.youtube.com/user/krishnaik06>
+
+- Ken Jee(Data Science, Sports Analytics)- <https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg>
 
 - Code For Cause(open source, web, ML)- <https://www.youtube.com/c/CodeforCause>
 
