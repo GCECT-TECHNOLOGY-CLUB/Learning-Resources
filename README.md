@@ -198,6 +198,14 @@ Follow-<https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw>
 
 <https://www.youtube.com/playlist?list=PLyzHIYrZBplo3K0dNUqppd2ynnoZPD6N1>
 
+- Krish Naik(Machine learning):-
+
+ <https://www.youtube.com/user/krishnaik06>
+
+- Ken Jee(Data Science, Sports Analytics):- 
+ 
+<https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg>
+
 
 - Kaggle resources:-
 
@@ -241,9 +249,9 @@ Note- Follow along written tutorials with hands-on implementation of code
 
 - Sentdex(Machine learning)- <https://www.youtube.com/c/sentdex>
 
-- Krish Naik(Machine learning)- <https://www.youtube.com/user/krishnaik06>
+- 3Blue1Brown (Mathematics)- <https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw>
 
-- Ken Jee(Data Science, Sports Analytics)- <https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg>
+- Two Minute Papers (Research Papers) - <https://www.youtube.com/user/keeroyz>
 
 - Code For Cause(open source, web, ML)- <https://www.youtube.com/c/CodeforCause>
 
