@@ -27,3 +27,6 @@
 
 - Anuj Bhaiya (in Koltin):
 <https://youtube.com/playlist?list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb>
+
+- Android Developers official documentation:
+<https://developer.android.com/guide>
