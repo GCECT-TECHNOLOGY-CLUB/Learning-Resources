@@ -6,6 +6,7 @@ Learning Resources
 - All the resources are free, you just need to devote your time. 
 - A lot of these courses are multiple hours long, so it is recommended to watch them in multiple sittings of 30-45 minutes each.
 - Making Projects is more important than certifications.
+- Feel free to contact with others regrading any doubts or anything like that.
 
 <p align="center">
   <img width="600" height="300"  src="images/intro.jpg">
@@ -91,15 +92,9 @@ Learning Resources
 
 <https://youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb>
 
-- Apna College C++ DSA Playlist ( Recommended) :-
-
-<https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ>
-
 - Community Classroom DSA (in Java) (Recommended) :- 
 
-Coming soon (starts from 1st Aug 2021) 
-
-Follow-<https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw>
+Follow-<https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ>
 
 
 - CodeWithHarry DSA (in Hindi):-
@@ -109,6 +104,22 @@ Follow-<https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw>
 - Anuj bhaiya DSA ( in Java):
 
 <https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p>
+
+- Apna College C++ DSA Playlist:-
+
+<https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ>
+
+
+<h3>Competitive Programming (CP):</h3>
+
+Competitive Programming is the application of DSA and maths to solve problems.
+Learn Basic DSA like arrays,strings,searching,sorting then start CP.
+
+-Luv: <https://youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ->
+
+-CodeVerse (maths): <https://youtube.com/playlist?list=PLN4aKSfpk8TQUiURV1k70At4Tj5oKb92i>
+
+
 
 <p align="center">
   <img width="600" height="300"  src="https://github.com/GCECT-TECHNOLOGY-CLUB/Learning-Resources/blob/main/images/1_3T7J7csXY8u36acofw5N8g.jpeg">
@@ -136,36 +147,35 @@ Follow-<https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw>
   <img width="300" height="300"  src="https://github.com/GCECT-TECHNOLOGY-CLUB/Learning-Resources/blob/main/images/android.webp">
 </p>
  
- <h3>Android development:-></h3>
+ <h3>Android development:</h3>
 
-- CodeWithHarry (in Hindi):
+<h4>JAVA Tutuorials</h4>
 
-<https://youtu.be/mXjZQX3UzOs>
+- Programming with Mosh (in english):
+<https://www.youtube.com/watch?v=eIrMbAQSU34>
 
-- Android Developer:-
+- CodeWithHarry (in hindi):
+<https://www.youtube.com/watch?v=rV_3Lewxx6o&t=459s>
 
-<https://youtube.com/playlist?list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe>
+<h4> Kotlin Tutuorials</h4>
 
-- Kotlin basics tutorial:
+- freeCodeCamp.org (in english):
+<https://www.youtube.com/watch?v=F9UC9DY-vIU&t=47s>
 
+- Anuj Bhaiya (in hindi):
 <https://www.youtube.com/watch?v=mnkzx3TwbV8>
 
+<h4>Get started with building your first app </h4>
 
-- Android development for beginners:
+- CodeWithHarry (in Java):
+<https://www.youtube.com/watch?v=mXjZQX3UzOs&t=36993s>
 
-<https://www.youtube.com/watch?v=BBWyXo-3JGQ>
-
-
-- Other resources:
-
-<https://www.youtube.com/watch?v=Iz08OTTjR04>
-
-<https://www.youtube.com/watch?v=uRyvNKRkwbs>
-
-
-- Anuj Bhaiya’s Course ( in Kotlin):-
-
+- Anuj Bhaiya (in Koltin):
 <https://youtube.com/playlist?list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb>
+
+<h4> Official documentation </h4>
+
+- Android Developers guide: <https://developer.android.com/guide>
 
 
 
@@ -226,6 +236,8 @@ Note- Follow along written tutorials with hands-on implementation of code
 <h3>Some Popular Youtube Channels to follow :</h3>
 
 - Code with Harry (Web,Android,Languages)-<https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww>
+- Take U Forward (DSA)- <https://www.youtube.com/c/takeUforward>
+- Kunal Khushwaha (DSA, Devops,Open-source,Web)- <https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw>
 
 - New Boston(Web,Dev-ops)- <https://www.youtube.com/user/thenewboston>
 
@@ -233,7 +245,7 @@ Note- Follow along written tutorials with hands-on implementation of code
 
 - Computerphile(Theoretical CS, Important topics)- <https://www.youtube.com/user/Computerphile>
 
-- Kunal Khushwaha (Devops,Open-source,Web)- <https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw>
+
 
 - Anuj Bhaiya(Android)- <https://www.youtube.com/channel/UC58_wzhvJta3hDSPvRLDAqg>
 
