@@ -138,34 +138,33 @@ Follow-<https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw>
  
  <h3>Android development:-></h3>
 
-- CodeWithHarry (in Hindi):
+<h4>JAVA Tutuorials</h4>
 
-<https://youtu.be/mXjZQX3UzOs>
+- Programming with Mosh (in english):
+<https://www.youtube.com/watch?v=eIrMbAQSU34>
 
-- Android Developer:-
+- CodeWithHarry (in hindi):
+<https://www.youtube.com/watch?v=rV_3Lewxx6o&t=459s>
 
-<https://youtube.com/playlist?list=PLknSwrodgQ72X4sKpzf5vT8kY80HKcUSe>
+<h4> Kotlin Tutuorials</h4>
 
-- Kotlin basics tutorial:
+- freeCodeCamp.org (in english):
+<https://www.youtube.com/watch?v=F9UC9DY-vIU&t=47s>
 
+- Anuj Bhaiya (in hindi):
 <https://www.youtube.com/watch?v=mnkzx3TwbV8>
 
+<h4>Get started with building your first app </h4>
 
-- Android development for beginners:
+- CodeWithHarry (in Java):
+<https://www.youtube.com/watch?v=mXjZQX3UzOs&t=36993s>
 
-<https://www.youtube.com/watch?v=BBWyXo-3JGQ>
-
-
-- Other resources:
-
-<https://www.youtube.com/watch?v=Iz08OTTjR04>
-
-<https://www.youtube.com/watch?v=uRyvNKRkwbs>
-
-
-- Anuj Bhaiya’s Course ( in Kotlin):-
-
+- Anuj Bhaiya (in Koltin):
 <https://youtube.com/playlist?list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb>
+
+<h4> Official documentation </h4>
+
+- Android Developers guide: <https://developer.android.com/guide>
 
 
 
