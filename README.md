@@ -110,7 +110,7 @@ Follow-<https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ>
 <https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ>
 
 
-<h3>Competitive Programming (CP)</h3>
+<h3>Competitive Programming (CP):</h3>
 
 Competitive Programming is the application of DSA and maths to solve problems.
 Learn Basic DSA like arrays,strings,searching,sorting then start CP.
@@ -147,7 +147,7 @@ Learn Basic DSA like arrays,strings,searching,sorting then start CP.
   <img width="300" height="300"  src="https://github.com/GCECT-TECHNOLOGY-CLUB/Learning-Resources/blob/main/images/android.webp">
 </p>
  
- <h3>Android development:-></h3>
+ <h3>Android development:</h3>
 
 <h4>JAVA Tutuorials</h4>
 
