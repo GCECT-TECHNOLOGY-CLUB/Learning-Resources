@@ -109,14 +109,15 @@ Follow-<https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ>
 
 <https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ>
 
+
 <h3>Competitive Programming (CP)</h3>
 
 Competitive Programming is the application of DSA and maths to solve problems.
 Learn Basic DSA like arrays,strings,searching,sorting then start CP.
 
--Luv <https://youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ->
+-Luv: <https://youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ->
 
--CodeVerse (maths) <https://youtube.com/playlist?list=PLN4aKSfpk8TQUiURV1k70At4Tj5oKb92i>
+-CodeVerse (maths): <https://youtube.com/playlist?list=PLN4aKSfpk8TQUiURV1k70At4Tj5oKb92i>
 
 
 
