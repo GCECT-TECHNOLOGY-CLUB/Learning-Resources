@@ -32,6 +32,8 @@ Learning Resources
 
 <https://youtube.com/playlist?list=PLB7540DEDD482705B>
 
+- [Conditional probability: two draws, one bag (Hindi)](https://liascript.github.io/course/?https://raw.githubusercontent.com/lmo0317/modumath-probability-lab/main/hi.md) — a five-minute, no-account exercise on ordered pairs and sampling with or without replacement.
+
 
 <p align="center">
   <img width="500" height="200"  src="https://github.com/GCECT-TECHNOLOGY-CLUB/Learning-Resources/blob/main/images/languages.png">
